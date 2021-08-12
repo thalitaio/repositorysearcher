@@ -11,8 +11,7 @@ Na página inicial, o usuário insere um nome de usuário do Github. A aplicaç�
 <h1>Como usar a aplicação</h1>
 Para usá-la, basta executar os seguintes comandos na raíz do projeto:
 
-'''
+```
 npm install
 npm start
-'''
-
+``` 
